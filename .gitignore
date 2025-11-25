@@ -12,7 +12,9 @@ backend/.env
 
 # Firebase keys
 *.pem
-*.json
+service-account.json
+firebase-adminsdk.json
+
 
 # Logs
 npm-debug.log*
