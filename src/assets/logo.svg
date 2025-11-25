@@ -1,0 +1,8 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="160" rx="32" fill="#E6FFFB" />
+  <path d="M38 101.5C54 84 74 82 88 86C108 92 122 108 136 126" stroke="#14B8A6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M40 64C56 52 78 52 92 58C112 66 126 86 138 108" stroke="#0F172A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M54 116C64 104 76 100 88 104C102 110 112 122 120 134" stroke="#0F172A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="40" y="86" font-family="'Plus Jakarta Sans', Arial" font-size="38" font-weight="700" fill="#0F172A">RSV</text>
+  <text x="82" y="132" font-family="'Plus Jakarta Sans', Arial" font-size="30" font-weight="700" fill="#14B8A6" opacity="0.6">Red Sea Valley</text>
+</svg>
